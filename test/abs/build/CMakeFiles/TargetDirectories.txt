@@ -1,0 +1,3 @@
+/home/minhpkm/FPT/Training/mock/test/abs/build/CMakeFiles/rebuild_cache.dir
+/home/minhpkm/FPT/Training/mock/test/abs/build/CMakeFiles/edit_cache.dir
+/home/minhpkm/FPT/Training/mock/test/abs/build/CMakeFiles/abs.dir

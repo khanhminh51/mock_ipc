@@ -1,0 +1,2 @@
+/usr/bin/ar qc libServerLib.a  CMakeFiles/ServerLib.dir/home/minhpkm/FPT/Training/mock/library/server/Server.cpp.o
+/usr/bin/ranlib libServerLib.a

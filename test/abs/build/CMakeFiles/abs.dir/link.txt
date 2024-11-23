@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/abs.dir/abs.cpp.o  -o abs  -Wl,-rpath,/home/minhpkm/FPT/Training/mock/test/abs/../../share_lib/app ../../../share_lib/app/libprocessapp.so -lpthread 

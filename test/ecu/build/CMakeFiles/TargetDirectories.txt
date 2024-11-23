@@ -1,0 +1,3 @@
+/home/minhpkm/FPT/Training/mock/test/ecu/build/CMakeFiles/rebuild_cache.dir
+/home/minhpkm/FPT/Training/mock/test/ecu/build/CMakeFiles/edit_cache.dir
+/home/minhpkm/FPT/Training/mock/test/ecu/build/CMakeFiles/ecu.dir

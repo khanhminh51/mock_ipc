@@ -1,0 +1,46 @@
+@startuml SequenceDiagram
+
+participant "Service" as Service
+participant "Server" as Server
+participant "Client" as Client
+
+activate Service
+Service -> Server : Create Queue
+activate Server
+
+activate Client
+Client -> Server : Create Queue
+group Subscribe
+Client -> Server : Subscribe to Service
+Server -> Service: Client subcribe to your app
+end
+group Set data
+Service -> Server : Set data
+Server -> Client : Notify Service has change data
+end
+group Get data
+Client -> Server : Get data
+Server -> Service : Required get data from client
+Service -> Server : Send data to server
+Server -> Client : Send data to client
+end
+group Set data from client
+Client -> Server: Required set data from client
+Server -> Service: Required set data from client
+Service -> Service : Update data
+Server -> Client : Notify Service has change data
+end
+group UnSubscribe
+Client -> Server : UnSubscribe to Service
+Server -> Service: Notify client unSubscribe
+end
+group Close
+Service -> Server : Close service queue
+Server -> Client : Close service queue
+end
+group Shut down
+Server -> Service : Sever shut down
+Server -> Client : Sever shut down
+end
+deactivate Server
+@enduml

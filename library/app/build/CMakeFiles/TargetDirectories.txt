@@ -1,0 +1,7 @@
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/install/strip.dir
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/install/local.dir
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/install.dir
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/list_install_components.dir
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/rebuild_cache.dir
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/edit_cache.dir
+/home/minhpkm/FPT/Training/mock/library/app/build/CMakeFiles/processapp.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/display.dir/display.cpp.o  -o display  -Wl,-rpath,/home/minhpkm/FPT/Training/mock/test/display/../../share_lib/app ../../../share_lib/app/libprocessapp.so -lpthread /usr/lib/x86_64-linux-gnu/libcurl.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ecu.dir/ecu.cpp.o  -o ecu  -Wl,-rpath,/home/minhpkm/FPT/Training/mock/test/ecu/../../share_lib/app ../../../share_lib/app/libprocessapp.so -lpthread 

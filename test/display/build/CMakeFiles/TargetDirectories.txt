@@ -1,0 +1,3 @@
+/home/minhpkm/FPT/Training/mock/test/display/build/CMakeFiles/rebuild_cache.dir
+/home/minhpkm/FPT/Training/mock/test/display/build/CMakeFiles/edit_cache.dir
+/home/minhpkm/FPT/Training/mock/test/display/build/CMakeFiles/display.dir

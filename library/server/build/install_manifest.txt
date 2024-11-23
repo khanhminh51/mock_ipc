@@ -1,0 +1,3 @@
+/home/minhpkm/FPT/Training/mock/library/server/../../share_lib/server/libserver.so
+/home/minhpkm/FPT/Training/mock/library/server/../../share_lib/server/include/Server.h
+/home/minhpkm/FPT/Training/mock/library/server/../../share_lib/server/include/Message.h

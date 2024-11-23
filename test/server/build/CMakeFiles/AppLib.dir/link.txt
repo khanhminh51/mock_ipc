@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAppLib.a  CMakeFiles/AppLib.dir/home/minhpkm/FPT/Training/mock/library/app/ProcessApp.cpp.o
+/usr/bin/ranlib libAppLib.a

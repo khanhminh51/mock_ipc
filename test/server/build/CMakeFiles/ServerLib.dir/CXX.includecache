@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/minhpkm/FPT/Training/mock/library/server/Server.cpp
+Server.h
+/home/minhpkm/FPT/Training/mock/library/server/Server.h
+cstring
+-
+
+/home/minhpkm/FPT/Training/mock/library/server/Server.h
+iostream
+-
+string
+-
+map
+-
+unordered_set
+-
+mqueue.h
+-
+queue
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+functional
+-
+atomic
+-
+
